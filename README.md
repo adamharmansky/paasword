@@ -2,7 +2,7 @@
 
 a minimal sudo askpass
 
-![](paasword.mp4)
+./paasword.mp4
 
 ## Features
 
