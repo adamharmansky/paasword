@@ -2,7 +2,7 @@
 
 a minimal sudo askpass
 
-./paasword.mp4
+https://raw.githubusercontent.com/adamharmansky/paasword/main/paasword.mp4
 
 ## Features
 
