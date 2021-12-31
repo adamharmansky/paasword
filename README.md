@@ -10,6 +10,12 @@ a minimal sudo askpass
  - outputs password to stdout
  - ctrl+backspace to delete entire password
 
+## Dependencies
+
+ - Xlib
+ - Xinerama
+ - cairo
+
 ## Installation
 
 To build and install, run:
